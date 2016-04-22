@@ -1,0 +1,20 @@
+~~Scratch this.~~
+
+![alt text]( https://github.com/akozak-reisys/documents/blob/master/malpka.jpg "Logo Title Text 1")
+
+H1 bl 
+H2 BLA
+### H3 BLAA
+#### H4
+##### H5
+###### H6
+#this is my page
+##**this is my page**
+![Wished I was a monkey](http://i.imgur.com/oXsU9uk.jpg)
+!documents/malpka.jpg
+
+
+h2. Roadmap
+
+* /cp should have several blocks/widgets (like Windows Metro interface): data, report, dashboard, account and etc.
+* Favorites datasets/reports/dashboards
