@@ -1,6 +1,6 @@
 ~~Scratch this.~~
 
-![alt text]( https://github.com/akozak-reisys/documents/blob/master/malpka.jpg "Logo Title Text 1")
+![alt text](https://raw.githubusercontent.com/akozak-reisys/documents/master/images/malpka.jpg "Logo Title Text 1")
 
 H1 bl 
 H2 BLA
