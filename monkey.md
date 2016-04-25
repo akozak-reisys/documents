@@ -52,7 +52,7 @@ The board is available to the public under the following location: https://trell
 Each task  could contain additional comments and information, and would be eventually assigned to a team member.
 After each review Team reported the progress on tasks on team's facebook page: https://www.facebook.com/earthdayhackathon4222016/ and provided screenshots of team's Kanban.
 
-#Sprint 0
+##Sprint 0
 Day prior to the Hackathon event, we needed to ensure that the following tasks get finalized:
 * setting up our development environment/infrastructure (heroku)
 * learn GitHub document creation/reporsitory
@@ -60,10 +60,11 @@ Day prior to the Hackathon event, we needed to ensure that the following tasks g
 * set up Trello agile board/provide access to team members
 * discussed logistics 
 
-#Release 1 Planning
+##Release 1 Planning
 The image below covers up everything :))
 ![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/IMG_7971.jpg "Release 1 Planning")
-#Sprint 1 
+
+##Sprint 1 
 The goal of Sprint 1 is to:
 * get the data 
 * analyze data
@@ -72,13 +73,17 @@ The goal of Sprint 1 is to:
 * work on base styling (wrapper, footer, header)
 Here is the agile board at the moment we started: 
 ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S1%20-%20Kanban.jpg "Sprint1 Kanban")
-#Sprint 1 Review
+
+##Sprint 1 Review
 We have completed most of the Sprint 1 tasks except: Table/Map visual
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/1230pm%20review.jpg "Sprint 1 Review")
-#Sprint 2 Review
+
+##Sprint 2 Review
  ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg "Sprint 2 Review")
-#Sprint 3 Review
-###Balance
+
+ ##Sprint 3 Review
+
+ ###Balance
 Team worked extra hard in the Sprint 3. Out of 23 stories/tasks that were committed to the Release1 Team was able to complete 18, 5 remained in progress which included:
 * inject full data
 * work on drill downs
@@ -87,10 +92,12 @@ Team worked extra hard in the Sprint 3. Out of 23 stories/tasks that were commit
 * tables (visual for the drill down page - transaction level)
 Team didn't work on the stretch story.
  ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/finalkanban.jpg "Final Kanban on April 22,2016")
-###Release 1
+
+##Release 1
  ![alt text](https://github.com/REI-Systems/earthday2016-reisystems-ui/blob/develop/documentation/Screen%20Shot%202016-04-22%20at%203.33.19%20PM.png "Release 1")
 ![alt text]( https://github.com/REI-Systems/earthday2016-reisystems-ui/blob/develop/documentation/Screen%20Shot%202016-04-22%20at%203.44.57%20PM.png "Release 1")
-###Presentation
+
+##Presentation
 The demo of the product has been conducted by Yatin who also presented the business goals and technology information/specifics of the developed product. In addition Anita provided the overview of the agile process that team followed throughout the hackathon.
 
 ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/presentationcoverpage.jpg )
@@ -98,9 +105,10 @@ The demo of the product has been conducted by Yatin who also presented the busin
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/technology.jpg )
 ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/process.jpg )
 
-###Final Sprint 4 has started!!!
+##Final Sprint 4 has started!!!
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/4-25-2016%2011-48-28%20AM.jpg "Kanban on April 25,2016")
-###FINAL RELEASE
+
+##FINAL RELEASE
 ....
 #Collaboration
 Team collaborated throughout the hackathon day. 
