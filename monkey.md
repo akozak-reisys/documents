@@ -75,15 +75,15 @@ Here is the agile board at the moment we started:
 ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S1%20-%20Kanban.jpg "Sprint1 Kanban")
 
 ##Sprint 1 Review
-We have completed most of the Sprint 1 tasks except: Table/Map visual
+We have completed most of the Sprint 1 tasks except: Table/Map visual, base styling (footer, header)
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/1230pm%20review.jpg "Sprint 1 Review")
 
 ##Sprint 2 Review
+We closed stories/tasks on base styling (footer, header), completed Map/Table charts. We were almost done with the remaining visuals, adding content to the page, map visual styling/integrating. Getting the full data  was pushed to the Sprint 3.
  ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg "Sprint 2 Review")
 
- ##Sprint 3 Review
-
- ###Balance
+##Sprint 3 Review
+###Balance
 Team worked extra hard in the Sprint 3. Out of 23 stories/tasks that were committed to the Release1 Team was able to complete 18, 5 remained in progress which included:
 * inject full data
 * work on drill downs
