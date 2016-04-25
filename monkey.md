@@ -1,3 +1,7 @@
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_131347.jpg "Panoramic View")
+#Earth Day Hackathon
+April 22, 2016
+---
 #Our Team
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/TEAMNAMEEE.jpg "Welcome to our Team")
 
@@ -8,11 +12,11 @@ Today we chose to enhance  reporting capabilities for the Federal Dashboard on S
 #Process
 In Order to deliver a working product, Team chose to follow Agile Process. 
 After getting familiar with the challenge topics presented at the beggining of Hackathon, Team met for a quick planning meeting and committed into 4 major user stories, which were divided into 23 tasks.
-Team identified 1 Stretch Story to find data connections across publictly available federal governmnet datasets and come up with new ideas that would help agency to manage other areas.
+Team identified 1 Stretch Story to find data connections across publictly available federal governmnet datasets and come up with new ideas that would help agency to manage other areas. 
 Team decided to divide the work into 3 Sprints, and each of them ended up with the Review.
----
-### Schedule
 
+### Schedule
+---
 
 | Time       | Sprint #          |
 | ------------- |:-------------:|
@@ -26,27 +30,18 @@ Team decided to divide the work into 3 Sprints, and each of them ended up with t
 | 3:45PM - 5:35PM    | Presentation |
 | 11:00AM - 5:00PM    | Sprint 4 (FINAL) APR 25,2016|
 
-Our Retrospective will be held in Sterling, VA on Apr 26, 2016 at 12:00pm -1:00pm
+Our Retrospective will be held in Sterling, VA on Apr 26, 2016 at 1:00pm -1:00pm
 
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_111521.jpg "wall kanban")
 
-Team collaborated throughout the hackathon day. 
-
-![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/TEAMworking.jpg "Team Collaboration")
-
-Apart from that Team met with the Product Owner to discuss must haves and confirm on the tasks priority. 
-
-Team had a pleasure to met the Business Owner and Federal Chief Sustainability Officer - Christine Harada - which made the experience somuch more memorable!
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_152600.jpg "Picture with Christine Harada")
 ---
-
 #Progress board 
 Team used Trello software to design the team's Kanban board. The main components of the board are: 
-..*BACKLOG - contrains goals/stories  
-..*TO DO - stories/tasks that team committed to the release. 
-..*IN PROGRESS - stories/tasks that have been picked by Team and are under the work in progress status
-..*TEST - stories/tasks that are being tested
-..*CLOSED - stories/tasks that have been comlpeted (after verifing and testing)
+..* BACKLOG - contrains goals/stories  
+..* TO DO - stories/tasks that team committed to the release. 
+..* IN PROGRESS - stories/tasks that have been picked by Team and are under the work in progress status
+..* TEST - stories/tasks that are being tested
+..* CLOSED - stories/tasks that have been comlpeted (after verifing and testing)
 
 Team sliced stories into tasks and mapped each of them into sprints. In order to visually connect tasks to respective stories Team used colored labels. 
 The board is available to the public under the following location: https://trello.com/b/OJQy8Ub4/earth-day-hackathon
@@ -62,68 +57,25 @@ After each review Team reported the progress on tasks on team's facebook page: h
  ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg "Sprint 2 Review")
 ###Sprint 3 Review
  ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/finalkanban.jpg "Final Kanban on April 22,2016")
- 
- 
-![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091055.jpg "Our Topic")
-![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091100.jpg "Our Topic")
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_111521.jpg "wall kanban")
-
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_112542.jpg "Our Topic")
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_112611.jpg "Our Topic")
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_131347.jpg "Our Topic")
-
-
-todays kanban
+###Final Sprint 4 has started!!!
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/4-25-2016%2011-48-28%20AM.jpg "Kanban on April 25,2016")
 
 
+Team collaborated throughout the hackathon day. 
 
+![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/TEAMworking.jpg "Team Collaboration")
+
+Apart from that Team met with the Product Owner to discuss must haves and confirm on the tasks priority. 
+
+Team had a pleasure to met the Business Owner and Federal Chief Sustainability Officer - Christine Harada - which made the experience somuch more memorable!
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_152600.jpg "Picture with Christine Harada")
+---
+![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091055.jpg "Speech")
+![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091100.jpg "Viktor and Hieu")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_112542.jpg "Anita and Team")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_112611.jpg "Team")
 ![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/wip.jpg "Work in Progress")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_084253.jpg "Yatin and Viktor")
 
 
 
-
- ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_084253.jpg "Our Topic")
-
- 
-#Earth Day Hackathon
-April 22, 2016
-
-Schedule
-* 8:30 AM Breakfast 
-* 9:00 AM Sprint 1 begins
-* 1:00 PM Demo and Retrospective
-* 1:00 PM Lunch 
-* 2:00 PM Sprint 2 begins
-* 6:00 PM Dinner and Retrospective
-
-
-![daily_schedule](https://cloud.githubusercontent.com/assets/11546190/8309591/47dc304e-1999-11e5-97ff-085feee94b6b.jpg)
-The daily schedule post in the team room depicting four-hour sprints followed by all-hands demonstrations and retrospectives.
-
-* 8:30 AM Breakfast 
-* 9:00 AM Sprint 1 begins
-* 1:00 PM Demo and Retrospective
-* 1:00 PM Lunch 
-* 2:00 PM Sprint 2 begins
-* 6:00 PM Dinner and Retrospective
-
-
-![alt text](https://raw.githubusercontent.com/akozak-reisys/documents/master/images/malpka.jpg "Logo Title Text 1")
-
-H1 bl 
-H2 BLA
-### H3 BLAA
-#### H4
-##### H5
-###### H6
-#this is my page
-##**this is my page**
-![Wished I was a monkey](http://i.imgur.com/oXsU9uk.jpg)
-!documents/malpka.jpg
-
-
-h2. Roadmap
-
-* /cp should have several blocks/widgets (like Windows Metro interface): data, report, dashboard, account and etc.
-* Favorites datasets/reports/dashboards
