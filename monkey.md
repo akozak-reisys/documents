@@ -106,11 +106,20 @@ The demo of the product has been conducted by Yatin who also presented the busin
 ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/process.jpg )
 
 ##Final Sprint 4 has started!!!
+Goals for the Sprint 4 are the following:
+* inject the full data
+* add drills to visuals on the cover page
+* integrate Table into the drill page
+* replace department description with department abbreviation
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/4-25-2016%2011-48-28%20AM.jpg "Kanban on April 25,2016")
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/s4%20starts.jpg "Kanban on April 25,2016")
 
 ##FINAL RELEASE
-....
+Please visit the final web page:
+https://earthday2016-reisystems-ui.herokuapp.com/
+
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/release%20finalv1.jpg "Kanban on April 25,2016")
+
 #Collaboration
 Team collaborated throughout the hackathon day. 
 
