@@ -1,13 +1,14 @@
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_131347.jpg "Panoramic View")
 #Earth Day Hackathon
 April 22, 2016
----
+
+
 #Our Team
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/TEAMNAMEEE.jpg "Welcome to our Team")
 
 Today we chose to enhance  reporting capabilities for the Federal Dashboard on Sustainable Purchasing. Using data captured in the government wide procurement system. This includes slicing and dicing the data by various factor such as product/service, total dollars, number of contracts, by quarter/fiscal year, etc. to show where agencies are putting their dollars toward environmentally sustainable products and services.
 
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/topic.jpg "Our Topic")
+...![alt text](https://github.com/akozak-reisys/documents/blob/master/images/topic.jpg "Our Topic")
 ---
 #Process
 In Order to deliver a working product, Team chose to follow Agile Process. 
