@@ -59,9 +59,11 @@ Day prior to the Hackathon event, we needed to ensure that the following tasks g
 * learn/create team's facebook community page 
 * set up Trello agile board/provide access to team members
 * discussed logistics 
-
+# Release 1 Planning
+The image below covers up everything :))
+![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/IMG_7971.jpg "Release 1 Planning")
 #Sprint 1 
-The goal of Sprint 1 is to 
+The goal of Sprint 1 is to:
 * get the data 
 * analyze data
 * add dashboard level APIs
