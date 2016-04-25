@@ -1,43 +1,40 @@
-~~Scratch this.~~
-![alt text](https://raw.githubusercontent.com/akozak-reisys/documents/master/images/malpka.jpg "Logo Title Text 1")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/TEAMNAMEEE.jpg "Welcome to our Team")
 
-TEAM NUMBER 
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/TEAMNAMEEE.jpg "HALOOOO")
+Today we chose to enhance  reporting capabilities for the Federal Dashboard on Sustainable Purchasing. Using data captured in the government wide procurement system. This includes slicing and dicing the data by various factor such as product/service, total dollars, number of contracts, by quarter/fiscal year, etc. to show where agencies are putting their dollars toward environmentally sustainable products and services.
 
-TOPIC 
-https://github.com/akozak-reisys/documents/blob/master/images/topic.jpg
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/topic.jpg "Our Topic")
+
 
 wORK IN PROGRESS
-https://github.com/akozak-reisys/documents/blob/master/images/wip.jpg
+![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/wip.jpg "Our Topic")
 
 12:30 review
-https://github.com/akozak-reisys/documents/blob/master/images/1230pm%20review.jpg
-https://github.com/akozak-reisys/documents/blob/master/images/20160422_084253.jpg
-https://github.com/akozak-reisys/documents/blob/master/images/20160422_091055.jpg
-https://github.com/akozak-reisys/documents/blob/master/images/20160422_091100.jpg
-https://github.com/akozak-reisys/documents/blob/master/images/20160422_111521.jpg
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/1230pm%20review.jpg "Our Topic")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_084253.jpg "Our Topic")
+![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091055.jpg "Our Topic")
+![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091100.jpg "Our Topic")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_111521.jpg "Our Topic")
 
-https://github.com/akozak-reisys/documents/blob/master/images/20160422_112542.jpg
-https://github.com/akozak-reisys/documents/blob/master/images/20160422_112611.jpg
-https://github.com/akozak-reisys/documents/blob/master/images/20160422_131347.jpg
-https://github.com/akozak-reisys/documents/blob/master/images/20160422_152600.jpg
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_112542.jpg "Our Topic")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_112611.jpg "Our Topic")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_131347.jpg "Our Topic")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_152600.jpg "Our Topic")
 
 todays kanban
-https://github.com/akozak-reisys/documents/blob/master/images/4-25-2016%2011-48-28%20AM.jpg
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/4-25-2016%2011-48-28%20AM.jpg "Kanban on April 25,2016")
 
 
 s1 kanban
- https://github.com/akozak-reisys/documents/blob/master/images/S1%20-%20Kanban.jpg
+![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S1%20-%20Kanban.jpg "Sprint1 Kanban")
  S2 KANBAN
- https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg
+ ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg "Sprint1 Kanban")
  TEAM WORKING
- https://github.com/akozak-reisys/documents/blob/master/images/TEAMworking.jpg
+ ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/TEAMworking.jpg "Team Collaboration")
 
  FINAL KABAN
- https://github.com/akozak-reisys/documents/blob/master/images/finalkanban.jpg
+ ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/finalkanban.jpg "Final Kanban on April 22,2016")
  
- WHOLE
- https://github.com/akozak-reisys/documents/blob/master/images/team%20pic.jpg
+
  
 #Earth Day Hackathon
 April 22, 2016
