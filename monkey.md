@@ -2,7 +2,7 @@
 ![alt text](https://raw.githubusercontent.com/akozak-reisys/documents/master/images/malpka.jpg "Logo Title Text 1")
 
 TEAM NUMBER 
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/TEAMNAMEEE.jpg "Logo Title Text 1")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/TEAMNAMEEE.jpg "HALOOOO")
 
 TOPIC 
 https://github.com/akozak-reisys/documents/blob/master/images/topic.jpg
