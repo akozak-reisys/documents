@@ -79,7 +79,7 @@ We have completed most of the Sprint 1 tasks except: Table/Map visual, base styl
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/1230pm%20review.jpg "Sprint 1 Review")
 
 ##Sprint 2 Review
-We closed stories/tasks on base styling (footer, header), completed Map/Table charts. We were almost done with the remaining visuals, adding content to the page, map visual styling/integrating. Getting the full data  was pushed to the Sprint 3.
+We closed stories/tasks on base styling (footer, header), completed Map/Table charts. We were almost done with the remaining visuals, adding content to the page, map visual styling/integrating. "Getting the full data" task  was pushed to the Sprint 3.
  ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg "Sprint 2 Review")
 
 ##Sprint 3 Review
@@ -107,6 +107,7 @@ The demo of the product has been conducted by Yatin who also presented the busin
 
 ##Final Sprint 4 has started!!!
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/4-25-2016%2011-48-28%20AM.jpg "Kanban on April 25,2016")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/s4%20starts.jpg "Kanban on April 25,2016")
 
 ##FINAL RELEASE
 ....
