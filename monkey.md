@@ -1,5 +1,6 @@
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_131347.jpg "Panoramic View")
 #Earth Day Hackathon
+
 April 22, 2016
 
 
@@ -38,9 +39,9 @@ Our Retrospective will be held in Sterling, VA on Apr 26, 2016 at 1:00pm -1:00pm
 ---
 #Progress board 
 Team used Trello software to design the team's Kanban board. The main components of the board are: 
-..* BACKLOG - contrains goals/stories  
-..* TO DO - stories/tasks that team committed to the release. 
-..* IN PROGRESS - stories/tasks that have been picked by Team and are under the work in progress status
+- BACKLOG - contrains goals/stories  
++ TO DO - stories/tasks that team committed to the release. 
+* IN PROGRESS - stories/tasks that have been picked by Team and are under the work in progress status
 ..* TEST - stories/tasks that are being tested
 ..* CLOSED - stories/tasks that have been comlpeted (after verifing and testing)
 
