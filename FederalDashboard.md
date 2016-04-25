@@ -118,7 +118,7 @@ Goals for the Sprint 4 are the following:
 Please visit the final web page:
 https://earthday2016-reisystems-ui.herokuapp.com/
 
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/release%20finalv1.jpg "Kanban on April 25,2016")
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/final.jpg "Kanban on April 25,2016")
 
 #Collaboration
 Team collaborated throughout the hackathon day. 
