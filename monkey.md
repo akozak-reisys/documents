@@ -4,13 +4,13 @@
 Today we chose to enhance  reporting capabilities for the Federal Dashboard on Sustainable Purchasing. Using data captured in the government wide procurement system. This includes slicing and dicing the data by various factor such as product/service, total dollars, number of contracts, by quarter/fiscal year, etc. to show where agencies are putting their dollars toward environmentally sustainable products and services.
 
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/topic.jpg "Our Topic")
-
+---
 #Process
 In Order to deliver a working product, Team chose to follow Agile Process. 
 After getting familiar with the challenge topics presented at the beggining of Hackathon, Team met for a quick planning meeting and committed into 4 major user stories, which were divided into 23 tasks.
 Team identified 1 Stretch Story to find data connections across publictly available federal governmnet datasets and come up with new ideas that would help agency to manage other areas.
 Team decided to divide the work into 3 Sprints, and each of them ended up with the Review.
-
+---
 ### Schedule
 
 
@@ -30,17 +30,36 @@ Our Retrospective will be held in Sterling, VA on Apr 26, 2016 at 12:00pm -1:00p
 
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_111521.jpg "wall kanban")
 
-###Team collaborated throughout the hackathon day. 
+Team collaborated throughout the hackathon day. 
 
 ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/TEAMworking.jpg "Team Collaboration")
 ![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/wip.jpg "Work in Progress")
-
+---
 
 #Progress board 
-Our Kanban 
-12:30 review
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/1230pm%20review.jpg "Our Topic")
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_084253.jpg "Our Topic")
+Team used Trello software to design the team's Kanban board. The main components of the board are: 
++BACKLOG - contrains goals/stories  
++TO DO - stories/tasks that team committed to the release. 
++IN PROGRESS - stories/tasks that have been picked by Team and are under the work in progress status
++TEST - stories/tasks that are being tested
++CLOSED - stories/tasks that have been comlpeted (after verifing and testing)
+
+Team sliced stories into tasks and mapped each of them into sprints. In order to visually connect tasks to respective stories Team used colored labels. 
+The board is available to the public under the following location: https://trello.com/b/OJQy8Ub4/earth-day-hackathon
+Each task  could contain additional comments and information, and would be eventually assigned to a team member
+
+After each review Team reported the progress on tasks on team's facebook page: https://www.facebook.com/earthdayhackathon4222016/ and provided screenshots of team's Kanban.
+
+###Sprint 1 Review
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/1230pm%20review.jpg "Sprint 1 Review")
+s1 kanban
+![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S1%20-%20Kanban.jpg "Sprint1 Kanban")
+###Sprint 2 Review
+ ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg "Sprint 2 Review")
+###Sprint 3 Review
+ ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/finalkanban.jpg "Final Kanban on April 22,2016")
+ 
+ 
 ![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091055.jpg "Our Topic")
 ![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091100.jpg "Our Topic")
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_111521.jpg "wall kanban")
@@ -54,15 +73,13 @@ todays kanban
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/4-25-2016%2011-48-28%20AM.jpg "Kanban on April 25,2016")
 
 
-s1 kanban
-![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S1%20-%20Kanban.jpg "Sprint1 Kanban")
- S2 KANBAN
- ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg "Sprint1 Kanban")
 
 
- FINAL KABAN
- ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/finalkanban.jpg "Final Kanban on April 22,2016")
- 
+
+
+
+
+ ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_084253.jpg "Our Topic")
 
  
 #Earth Day Hackathon
