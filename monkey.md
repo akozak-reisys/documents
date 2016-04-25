@@ -90,7 +90,7 @@ Team worked extra hard in the Sprint 3. Out of 23 stories/tasks that were commit
 * top 10 sustainable agencies accross the government - visual
 * make the web page fully responsive (partially done, theme is responsive, not charts)
 * tables (visual for the drill down page - transaction level).
- Team didn't work on the stretch story.
+   Team didn't work on the stretch story.
  ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/finalkanban.jpg "Final Kanban on April 22,2016")
 
 ##Release 1
