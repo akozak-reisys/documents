@@ -33,16 +33,20 @@ Our Retrospective will be held in Sterling, VA on Apr 26, 2016 at 12:00pm -1:00p
 Team collaborated throughout the hackathon day. 
 
 ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/TEAMworking.jpg "Team Collaboration")
-![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/wip.jpg "Work in Progress")
+
+Apart from that Team met with the Product Owner to discuss must haves and confirm on the tasks priority. 
+
+Team had a pleasure to met the Business Owner and Federal Chief Sustainability Officer - Christine Harada - which made the experience somuch more memorable!
+![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_152600.jpg "Picture with Christine Harada")
 ---
 
 #Progress board 
 Team used Trello software to design the team's Kanban board. The main components of the board are: 
-+BACKLOG - contrains goals/stories  
-+TO DO - stories/tasks that team committed to the release. 
-+IN PROGRESS - stories/tasks that have been picked by Team and are under the work in progress status
-+TEST - stories/tasks that are being tested
-+CLOSED - stories/tasks that have been comlpeted (after verifing and testing)
+..*BACKLOG - contrains goals/stories  
+..*TO DO - stories/tasks that team committed to the release. 
+..*IN PROGRESS - stories/tasks that have been picked by Team and are under the work in progress status
+..*TEST - stories/tasks that are being tested
+..*CLOSED - stories/tasks that have been comlpeted (after verifing and testing)
 
 Team sliced stories into tasks and mapped each of them into sprints. In order to visually connect tasks to respective stories Team used colored labels. 
 The board is available to the public under the following location: https://trello.com/b/OJQy8Ub4/earth-day-hackathon
@@ -50,10 +54,10 @@ Each task  could contain additional comments and information, and would be event
 
 After each review Team reported the progress on tasks on team's facebook page: https://www.facebook.com/earthdayhackathon4222016/ and provided screenshots of team's Kanban.
 
+###Sprint 1 has started!!!
+![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S1%20-%20Kanban.jpg "Sprint1 Kanban")
 ###Sprint 1 Review
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/1230pm%20review.jpg "Sprint 1 Review")
-s1 kanban
-![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S1%20-%20Kanban.jpg "Sprint1 Kanban")
 ###Sprint 2 Review
  ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/S2Kanban.jpg "Sprint 2 Review")
 ###Sprint 3 Review
@@ -67,14 +71,14 @@ s1 kanban
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_112542.jpg "Our Topic")
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_112611.jpg "Our Topic")
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_131347.jpg "Our Topic")
-![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_152600.jpg "Our Topic")
+
 
 todays kanban
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/4-25-2016%2011-48-28%20AM.jpg "Kanban on April 25,2016")
 
 
 
-
+![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/wip.jpg "Work in Progress")
 
 
 
