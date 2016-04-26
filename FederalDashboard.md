@@ -125,9 +125,9 @@ Team collaborated throughout the hackathon day.
 
 ![alt text]( https://github.com/akozak-reisys/documents/blob/master/images/TEAMworking.jpg "Team Collaboration")
 
-In addition, Team met discussed must haves and confirmed the tasks priority with the Product Owner.
+In addition, Team discussed 'must haves' and confirmed the tasks priority with the Product Owner.
 
-Team had a pleasure to met the Business Owner and Federal Chief Sustainability Officer - Christine Harada - which made the experience so much more memorable!
+Team had a pleasure to meet the Business Owner and Federal Chief Sustainability Officer - Christine Harada - which made the experience so much more memorable!
 ![alt text](https://github.com/akozak-reisys/documents/blob/master/images/20160422_152600.jpg "Picture with Christine Harada")
 ---
 ![alt text] (https://github.com/akozak-reisys/documents/blob/master/images/20160422_091055.jpg "Opening Speech")
